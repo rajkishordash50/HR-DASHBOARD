@@ -74,4 +74,6 @@ Metric	Result
 **Decision Speed**	What-if questions answered in <10 sec during meetings vs 2-day turnaround previously
 **Cost Optimization**	Identified Indeed/LinkedIn as 60% of hires → Cut spend on bottom 3 sources saving $15k/year est.
 **Retention Action**	Flagged 32% low satisfaction segment → Led to new engagement survey + policy review
-**Adoption**	Used by HR Director + 5 HRBPs weekly for headcount & budget revi
+**Adoption**	Used by HR Director + 5 HRBPs weekly for headcount & budget review
+
+** 6 Screenshot / Demo
