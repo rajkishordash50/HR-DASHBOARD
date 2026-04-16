@@ -1,4 +1,6 @@
-****1. Project Title  : Interactive HR Analytics** **Dashboard** ****
+ **Interactive HR Analytics Dashboard**
+
+**1. Project Title  : Interactive HR Analytics Dashboard ** 
 
 **Headline**
 Interactive HR Analytics Dashboard | Power BI
