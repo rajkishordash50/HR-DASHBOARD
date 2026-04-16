@@ -77,3 +77,7 @@ Metric	Result
 **Adoption**	Used by HR Director + 5 HRBPs weekly for headcount & budget review
 
 ** 6 Screenshot / Demo
+
+See how the Dashboard looks like :  
+https://github.com/rajkishordash50/HR-DASHBOARD/blob/main/HR_DASHBOARD%20IMAGE.png
+
